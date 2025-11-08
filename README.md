@@ -55,6 +55,7 @@ Troubleshooting
 
 Notes
 -----
+URL https://github.com/RacsoMG/Single-Page-CV
 - This repository contains only static files; no build step is required.
 - If you want, I can add a simple `package.json` and a start script (e.g., `serve` or `http-server`) to make running a local server one command.
 
